@@ -1,0 +1,41 @@
+.pic{
+    height: 90px;
+    width: 90px;
+}
+
+body{
+    background: url(../images/cavern3.jpg);
+    background-size: cover;
+    
+}
+
+
+.container{
+    font-weight: bold;
+   
+}
+
+.titleBoard{
+    /* background-color: aqua; */
+    background-color: rgba(0, 255, 255, 0.7)
+}
+
+.gameDescription{
+    /* background-color: salmon; */
+    background-color: rgba(250, 128, 114, 0.7)
+}
+
+.ranNumOutput{
+    /* background-color: beige; */
+    background-color: rgba(245, 245, 220, 0.7)
+}
+
+.crystalImages{
+    /* background-color: azure; */
+    background-color: rgba(240, 255, 255, 0.7)
+}
+
+.scoreBoard{
+    /* background-color: yellowgreen; */
+    background-color: rgba(154, 205, 50, 0.7)
+}
