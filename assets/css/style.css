@@ -17,25 +17,25 @@ body{
 
 .titleBoard{
     /* background-color: aqua; */
-    background-color: rgba(0, 255, 255, 0.7)
+    background-color: rgba(0, 255, 255, 0.3)
 }
 
 .gameDescription{
     /* background-color: salmon; */
-    background-color: rgba(250, 128, 114, 0.7)
+    background-color: rgba(250, 128, 114, 0.6)
 }
 
 .ranNumOutput{
     /* background-color: beige; */
-    background-color: rgba(245, 245, 220, 0.7)
+    background-color: rgba(245, 245, 220, 0.3)
 }
 
 .crystalImages{
     /* background-color: azure; */
-    background-color: rgba(240, 255, 255, 0.7)
+    background-color: rgba(240, 255, 255, 0.3)
 }
 
 .scoreBoard{
     /* background-color: yellowgreen; */
-    background-color: rgba(154, 205, 50, 0.7)
+    background-color: rgba(154, 205, 50, 0.6)
 }
